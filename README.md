@@ -2,7 +2,7 @@
 
 Un mini gioco sviluppato in **Vue 3 + Vite**, ispirato alla variante nerd del classico "Sasso Carta Forbici", resa celebre da **Sheldon Cooper** nella serie *The Big Bang Theory*.
 
-> “È molto semplice: Sasso, Carta, Forbici, Lucertola, Spock!” – Sheldon Cooper (S02E08)
+> “È molto semplice: Sasso, Carta, Forbici, Lucertola, Spock!” – Sheldon Cooper 
 
 ---
 
@@ -32,20 +32,6 @@ Le regole sono più complesse, ma anche più bilanciate. Ecco le interazioni:
 - 🖖 **Spock** vaporizza il **Sasso**
 - 🪨 Il **Sasso** schiaccia le **Forbici**
 
-> “Rock, Paper, Scissors is a game as old as time itself.” – Sheldon Cooper (S03E17)
+> “Rock, Paper, Scissors is a game as old as time itself.” – Sheldon Cooper 
 
----
 
-## 📦 Installazione
-
-### ⚙️ Prerequisiti
-- Node.js (consigliata v18+)
-- npm o pnpm
-
-### 🚀 Avvio rapido
-
-```bash
-git clone https://github.com/tuo-username/sheldon-game.git
-cd sheldon-game
-npm install
-npm run dev
